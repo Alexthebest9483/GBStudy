@@ -1,6 +1,5 @@
 #include <iostream>
 #include <locale.h>
-#include "mylib.h"
 
 using namespace std;
 
